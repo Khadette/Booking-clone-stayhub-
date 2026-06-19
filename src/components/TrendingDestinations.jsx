@@ -4,7 +4,7 @@ const DESTINATIONS = [
   {
     name: 'Karongi',
     count: '3 properties',
-    image: 'Travel_Holidays_Cheap_Flights_Airline_Tickets_Airfares_1780756154296.jpg',
+    image: 'https://images.trvl-media.com/lodging/111000000/110860000/110858400/110858324/a5ccfaeb.jpg?impolicy=resizecrop&rw=1200&ra=fit',
     size: 'large',
   },
   {

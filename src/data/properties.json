@@ -1,0 +1,235 @@
+[
+  {
+    "id": "1",
+    "name": "Kivu Lakeside Retreat",
+    "location": "Rubavu, Rwanda",
+    "type": "Resort",
+    "pricePerNight": 120,
+    "rating": 4.8,
+    "reviewCount": 214,
+    "amenities": ["Free WiFi", "Private beach", "Pool", "Breakfast included", "Lake view", "Free parking"],
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1200&q=80",
+      "https://images.unsplash.com/photo-1455587734955-081b22074882?w=1200&q=80"
+    ],
+    "description": "Wake up to the still water of Lake Kivu from your private balcony. This resort blends warm Rwandan hospitality with quiet, considered design, just steps from the shoreline.",
+    "roomTypes": [
+      { "name": "Garden Room", "capacity": 2, "price": 120 },
+      { "name": "Lake View Suite", "capacity": 3, "price": 175 },
+      { "name": "Family Villa", "capacity": 5, "price": 240 }
+    ],
+    "reviews": [
+      { "author": "Aline M.", "score": 9.6, "comment": "The lake view from the suite was unforgettable. Staff went out of their way to help with our boat trip." },
+      { "author": "James K.", "score": 9.0, "comment": "Quiet, clean, and the breakfast spread was excellent. Would return." }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Nyungwe Forest Lodge",
+    "location": "Nyungwe, Rwanda",
+    "type": "Hotel",
+    "pricePerNight": 95,
+    "rating": 4.6,
+    "reviewCount": 168,
+    "amenities": ["Free WiFi", "Guided hikes", "Restaurant", "Free parking", "Mountain view"],
+    "images": [
+      "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=1200&q=80",
+      "https://images.unsplash.com/photo-1518733057094-95b53143d2a7?w=1200&q=80",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=1200&q=80"
+    ],
+    "description": "Tucked at the edge of the rainforest canopy, this lodge is the ideal base for chimpanzee tracking and canopy walks, with cosy rooms warmed by wood-burning stoves.",
+    "roomTypes": [
+      { "name": "Standard Room", "capacity": 2, "price": 95 },
+      { "name": "Forest View Room", "capacity": 2, "price": 130 }
+    ],
+    "reviews": [
+      { "author": "Sophie R.", "score": 9.2, "comment": "Incredible setting. The guided hike was the highlight of our whole trip." }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Kigali Heights Apartments",
+    "location": "Kigali, Rwanda",
+    "type": "Apartment",
+    "pricePerNight": 65,
+    "rating": 4.4,
+    "reviewCount": 312,
+    "amenities": ["Free WiFi", "Kitchenette", "City view", "Gym access", "Free parking"],
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=80"
+    ],
+    "description": "Modern serviced apartments above the Kigali skyline, built for business travellers and longer stays alike, with a fully equipped kitchenette in every unit.",
+    "roomTypes": [
+      { "name": "Studio", "capacity": 2, "price": 65 },
+      { "name": "One-Bedroom", "capacity": 3, "price": 88 }
+    ],
+    "reviews": [
+      { "author": "Eric N.", "score": 8.8, "comment": "Great for a two week work stay. Fast wifi and the kitchen had everything I needed." }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Akagera Savanna Camp",
+    "location": "Kayonza, Rwanda",
+    "type": "Resort",
+    "pricePerNight": 150,
+    "rating": 4.7,
+    "reviewCount": 96,
+    "amenities": ["Game drives", "Pool", "Restaurant", "Free WiFi", "Bar"],
+    "images": [
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=1200&q=80",
+      "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1200&q=80",
+      "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=1200&q=80"
+    ],
+    "description": "A tented camp on the edge of Akagera National Park, where game drives start at your doorstep and evenings end around a fire pit under an open sky.",
+    "roomTypes": [
+      { "name": "Safari Tent", "capacity": 2, "price": 150 },
+      { "name": "Family Tent", "capacity": 4, "price": 210 }
+    ],
+    "reviews": [
+      { "author": "Maria T.", "score": 9.4, "comment": "Saw lions on our first game drive. The camp itself is comfortable without losing the wild feel." }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Musanze Volcano Villas",
+    "location": "Musanze, Rwanda",
+    "type": "Villa",
+    "pricePerNight": 210,
+    "rating": 4.9,
+    "reviewCount": 74,
+    "amenities": ["Private pool", "Mountain view", "Free WiFi", "Breakfast included", "Fireplace"],
+    "images": [
+      "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=1200&q=80",
+      "https://images.unsplash.com/photo-1572331165267-854da2b10ccf?w=1200&q=80",
+      "https://images.unsplash.com/photo-1601918774946-25832a4be0d6?w=1200&q=80"
+    ],
+    "description": "Private villas with uninterrupted views of the Virunga volcanoes, designed for travellers heading out on gorilla trekking who want comfort to come back to.",
+    "roomTypes": [
+      { "name": "One-Bedroom Villa", "capacity": 2, "price": 210 },
+      { "name": "Two-Bedroom Villa", "capacity": 4, "price": 320 }
+    ],
+    "reviews": [
+      { "author": "Daniel O.", "score": 10, "comment": "Best views we've had at any property, anywhere. The private pool was a lovely surprise." }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Huye Heritage Hotel",
+    "location": "Huye, Rwanda",
+    "type": "Hotel",
+    "pricePerNight": 70,
+    "rating": 4.3,
+    "reviewCount": 142,
+    "amenities": ["Free WiFi", "Restaurant", "Free parking", "Garden", "Bar"],
+    "images": [
+      "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=1200&q=80",
+      "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?w=1200&q=80",
+      "https://images.unsplash.com/photo-1551776235-dde6d482980b?w=1200&q=80"
+    ],
+    "description": "A long-standing hotel close to the National Museum, with a leafy courtyard restaurant and rooms that favour quiet comfort over flash.",
+    "roomTypes": [
+      { "name": "Classic Room", "capacity": 2, "price": 70 },
+      { "name": "Deluxe Room", "capacity": 2, "price": 92 }
+    ],
+    "reviews": [
+      { "author": "Grace U.", "score": 8.4, "comment": "Simple, clean, and well located for visiting the museum. Breakfast was a nice surprise." }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Rubavu Beachfront Suites",
+    "location": "Rubavu, Rwanda",
+    "type": "Apartment",
+    "pricePerNight": 88,
+    "rating": 4.5,
+    "reviewCount": 188,
+    "amenities": ["Lake view", "Free WiFi", "Kitchenette", "Balcony", "Free parking"],
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200&q=80",
+      "https://images.unsplash.com/photo-1574643156929-51fa098b0394?w=1200&q=80",
+      "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=1200&q=80"
+    ],
+    "description": "Self-catering suites right on the Rubavu shoreline, with private balconies that catch the sunset over Lake Kivu every evening.",
+    "roomTypes": [
+      { "name": "Studio Suite", "capacity": 2, "price": 88 },
+      { "name": "Two-Bedroom Suite", "capacity": 4, "price": 145 }
+    ],
+    "reviews": [
+      { "author": "Patrick H.", "score": 9.0, "comment": "Sunset from the balcony every night, worth booking for that alone." }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Kigali Boutique Hotel",
+    "location": "Kigali, Rwanda",
+    "type": "Hotel",
+    "pricePerNight": 110,
+    "rating": 4.6,
+    "reviewCount": 256,
+    "amenities": ["Rooftop bar", "Pool", "Free WiFi", "Spa", "Gym access"],
+    "images": [
+      "https://images.unsplash.com/photo-1551918120-9739cb430c6d?w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=1200&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1200&q=80"
+    ],
+    "description": "A design-forward boutique hotel in the city centre, with a rooftop pool overlooking the hills and an in-house spa for slowing down after meetings.",
+    "roomTypes": [
+      { "name": "Superior Room", "capacity": 2, "price": 110 },
+      { "name": "Executive Suite", "capacity": 2, "price": 165 }
+    ],
+    "reviews": [
+      { "author": "Linda P.", "score": 9.1, "comment": "The rooftop bar at sunset is reason enough to stay here. Rooms were spotless too." }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Gisenyi Garden Bungalows",
+    "location": "Gisenyi, Rwanda",
+    "type": "Villa",
+    "pricePerNight": 135,
+    "rating": 4.7,
+    "reviewCount": 61,
+    "amenities": ["Private garden", "Free WiFi", "Breakfast included", "Free parking", "Lake access"],
+    "images": [
+      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1200&q=80",
+      "https://images.unsplash.com/photo-1521783988139-89397d761dce?w=1200&q=80"
+    ],
+    "description": "Standalone garden bungalows a short walk from the lake, each with its own outdoor sitting area shaded by banana palms.",
+    "roomTypes": [
+      { "name": "Garden Bungalow", "capacity": 2, "price": 135 },
+      { "name": "Family Bungalow", "capacity": 4, "price": 190 }
+    ],
+    "reviews": [
+      { "author": "Thomas B.", "score": 9.3, "comment": "Felt like our own private hideaway. The garden in the morning was the best part of the day." }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Volcanoes Mist Hotel",
+    "location": "Musanze, Rwanda",
+    "type": "Resort",
+    "pricePerNight": 165,
+    "rating": 4.8,
+    "reviewCount": 103,
+    "amenities": ["Mountain view", "Restaurant", "Free WiFi", "Spa", "Free parking", "Bar"],
+    "images": [
+      "https://images.unsplash.com/photo-1601701119533-fd64deb3e5ba?w=1200&q=80",
+      "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=1200&q=80",
+      "https://images.unsplash.com/photo-1559599746-8823b38544c6?w=1200&q=80"
+    ],
+    "description": "Set against the misty slopes of the Virungas, this resort is a popular stop before and after gorilla trekking, with a spa built for tired legs.",
+    "roomTypes": [
+      { "name": "Mist View Room", "capacity": 2, "price": 165 },
+      { "name": "Volcano Suite", "capacity": 3, "price": 230 }
+    ],
+    "reviews": [
+      { "author": "Olivia C.", "score": 9.5, "comment": "The spa after a day of trekking was exactly what we needed. Staff remembered our names by day two." }
+    ]
+  }
+]
